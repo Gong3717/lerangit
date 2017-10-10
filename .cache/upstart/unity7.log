@@ -1,0 +1,41 @@
+ERROR 2017-10-10 14:59:33 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-10-10 15:01:46 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-10-10 15:56:36 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-10-10 16:06:42 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+ERROR 2017-10-10 16:09:42 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+1507625071379	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507625071386	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507625071416	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507625071417	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507625072043	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507625072043	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507625072049	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507625072050	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507625464680	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507625464685	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1507625466216	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1507625466247	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1507625466626	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1507625466732	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1507625467243	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1507625468281	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+1507625468930	addons.xpi	WARN	Add-on firefox-hotfix@mozilla.org is not compatible with application version.
+1507625583380	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507625583381	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: loadFile@resource://gre/modules/services-common/blocklist-clients.js:119:30
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+loadDumpFile@resource://gre/modules/services-common/blocklist-clients.js:118:12
+syncCollection@resource://gre/modules/services-common/blocklist-clients.js:212:39
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+
+*************************
+1507625702002	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1507625702004	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+ERROR 2017-10-10 17:01:34 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
